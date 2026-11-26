@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xo6/VYayXLU=",
+  "success": true,
+  "projectFilePath": "/Users/vindyasiriwardane/Developer/jobtrack/backend/JobTrack.Api/JobTrack.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/vindyasiriwardane/.nuget/packages/microsoft.aspnetcore.openapi/11.0.0/microsoft.aspnetcore.openapi.11.0.0.nupkg.sha512",
+    "/Users/vindyasiriwardane/.nuget/packages/microsoft.openapi/3.11.0/microsoft.openapi.3.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
